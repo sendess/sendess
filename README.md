@@ -3,6 +3,8 @@
 <h1 align="center">This is Sandesh Acharya</h1>
 <h4 align="center">GitHub Profile</h3>
 
+![](https://gitwar.herokuapp.com/badge?username=your-github-username&color=green)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=22&duration=4500&lines=GitHub+Under+Construction+%E2%9B%91+....)](https://git.io/typing-svg)
 
 <hr>
@@ -31,6 +33,10 @@
 <p align = "center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sendess&theme=highcontrast" alt="sendess" width = "40%"/>
 </p><br>
+
+<hr>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <hr>
 
 <h3 align="center">Connect with me on:</h3>
