@@ -34,5 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sendess&show_icons=true&theme=tokyonight&locale=en" alt="sendess" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sendess&theme=dark" alt="sendess" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sendess&theme=highcontrast" alt="sendess" /></p>
