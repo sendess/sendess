@@ -31,7 +31,7 @@
 </p><br>
 
 <p align = "center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sendess&theme=highcontrast" alt="sendess" width = "40%"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sendess&theme=highcontrast" alt="sendess" width = "50%"/>
 </p><br>
 
 <hr>
