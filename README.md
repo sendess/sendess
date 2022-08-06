@@ -5,7 +5,7 @@
 
 - 🙋‍♂️ Hello, I welcome you to my github profile.<br>
 - 🙂 I am a Computer Engineering undergraduate,
--    I’m currently working on **Voice Cloning**
+- 🎙 I’m currently working on project related to **Voice Cloning**
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **projects connected to AI**
 - 🤝 I’m looking for help with **Voice Cloning**
