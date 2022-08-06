@@ -1,18 +1,20 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <h1 align="center">This is Sandesh Acharya</h1>
 <h4 align="center">GitHub Profile</h3>
 
-- 🙋‍♂️ Hello, I welcome you to my github profile.<br>
-- 🙂 I am a Computer Engineering undergraduate,
-- 🎙 I’m currently working on project related to **Voice Cloning**
-- 🌱 I’m currently learning **Machine Learning**
-- 👯 I’m looking to collaborate on **projects connected to AI**
-- 🤝 I’m looking for help with **Voice Cloning**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=22&duration=4500&lines=GitHub+Under+Construction+%E2%9B%91+....)](https://git.io/typing-svg)
 
-- ⚡ Feel free for any type of queries.
-- 📫 Email me at **er.sandesh2022@gmail.com**
-- 💬 Ask me about **Anything that is bothering you**
+<hr>
+- 🙋‍♂️ Hello, I welcome you to my github profile.<br>
+- 🙂 I am a Computer Engineering undergraduate from Nepal.<br>
+- 🎙 I’m currently working on project related to <b>Voice Cloning</b><br>
+- 🌱 I’m currently learning <b>Machine Learning</b><br>
+- 👯 I’m looking to collaborate on <b>projects connected to AI</b><br>
+- 🤝 I’m looking for help with <b>Voice Cloning</b><br><br>
+- ⚡ Feel free for any type of queries.<br>
+- 📫 Email me at <a href = "#"><b>er.sandesh2022@gmail.com</b></a><br>
+- 💬 Ask me about <b>Anything that is bothering you</b><br>
 
 <hr>
 <h3 align="center">Languages and Tools:</h3>
