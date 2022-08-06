@@ -42,3 +42,5 @@
 <a href="https://instagram.com/_sendess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sendess" height="30" width="40" /> instagram.com/_sendess</a><br><br>
 <a href="https://discord.gg/Sandesh#6561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sandesh#6561" height="30" width="40" /> discord.gg/Sandesh#6561</a><br><br>
 </p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
