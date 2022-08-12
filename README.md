@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning <b>Machine Learning</b><br>
 - 👯 I’m looking to collaborate on <b>projects connected to AI</b><br>
 - 🤝 I’m looking for help with <b>Voice Cloning</b><br><br>
-- ⚡ Feel free for any type of queries.<br>
+- ⚡ Feel free to ask any type of queries.<br>
 - 📫 Email me at <a href = "#"><b>er.sandesh2022@gmail.com</b></a><br>
 - 💬 Ask me about <b>Anything that is bothering you</b><br>
 
