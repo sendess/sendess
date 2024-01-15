@@ -9,7 +9,7 @@
 
 <hr>
 - 🙋‍♂️ Hello, I welcome you to my github profile.<br>
-- 🙂 I am a Computer Engineering undergraduate from Nepal.<br>
+- 🙂 I am a Computer Engineer from Nepal.<br>
 - 🎙 I’m currently working on project related to <b>Voice Cloning</b><br>
 - 🌱 I’m currently learning <b>Machine Learning</b><br>
 - 👯 I’m looking to collaborate on <b>projects connected to AI</b><br>
